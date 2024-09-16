@@ -1,0 +1,16 @@
+C:\Users\Guilherme M\source\repos\ListaDeTarefas\ListaDeTarefas\bin\Debug\net8.0-windows\ListaDeTarefas.exe
+C:\Users\Guilherme M\source\repos\ListaDeTarefas\ListaDeTarefas\bin\Debug\net8.0-windows\ListaDeTarefas.deps.json
+C:\Users\Guilherme M\source\repos\ListaDeTarefas\ListaDeTarefas\bin\Debug\net8.0-windows\ListaDeTarefas.runtimeconfig.json
+C:\Users\Guilherme M\source\repos\ListaDeTarefas\ListaDeTarefas\bin\Debug\net8.0-windows\ListaDeTarefas.dll
+C:\Users\Guilherme M\source\repos\ListaDeTarefas\ListaDeTarefas\bin\Debug\net8.0-windows\ListaDeTarefas.pdb
+C:\Users\Guilherme M\source\repos\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0-windows\ListaDeTarefas.form1.resources
+C:\Users\Guilherme M\source\repos\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0-windows\ListaDeTarefas.csproj.GenerateResource.cache
+C:\Users\Guilherme M\source\repos\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0-windows\ListaDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme M\source\repos\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0-windows\ListaDeTarefas.AssemblyInfoInputs.cache
+C:\Users\Guilherme M\source\repos\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0-windows\ListaDeTarefas.AssemblyInfo.cs
+C:\Users\Guilherme M\source\repos\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0-windows\ListaDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme M\source\repos\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0-windows\ListaDeTarefas.dll
+C:\Users\Guilherme M\source\repos\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0-windows\refint\ListaDeTarefas.dll
+C:\Users\Guilherme M\source\repos\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0-windows\ListaDeTarefas.pdb
+C:\Users\Guilherme M\source\repos\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0-windows\ListaDeTarefas.genruntimeconfig.cache
+C:\Users\Guilherme M\source\repos\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0-windows\ref\ListaDeTarefas.dll
